@@ -18,6 +18,7 @@ Key Objectives:
 
 ## Data Structure
 Vagabond's Bike Shop's database consists of three tables: fact_sales, dim_customers, and dim_products, as shown below.
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/4d9e59ad7dfc2997fc8d5cfd97eefdcba6234810/Vagabond's%20Bike%20Shop's%20database.png)
 
 ## Executive Summary
 
