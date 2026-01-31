@@ -6,10 +6,6 @@ This End-to-End Analytics Project was developed to transform raw transactional d
 
 ### Data source: DataWithBaraa
 
-
-
-
-
 Vagabond's Bike Shop is a global retail business specializing in high-performance bicycles, components, and accessories. As the business expanded across multiple continents, the need for a centralized, data-driven system to monitor performance became critical for executive decision-making.
 
 Key Objectives:
@@ -28,6 +24,22 @@ Vagabond's Bike Shop's database consists of three tables: fact_sales, dim_custom
 ![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/4d9e59ad7dfc2997fc8d5cfd97eefdcba6234810/Vagabond's%20Bike%20Shop's%20database.png)
 
 ## Executive Summary
+The Vagabond's Bike Shop dashboard reveals a period of hyper-growth and significant strategic shifts between 2011 and 2013. The business successfully transitioned from a high-value/low-volume model to a massive high-volume market expansion.
+
+Key Financial Highlights (2013 Performance):
+● Exceptional Growth: Achieved a 179.77% Year-over-Year (YoY) revenue growth, reaching a total annual revenue of $16.34M.
+
+● Dominant Markets: The United States ($5.2M) and Australia ($4.3M) emerged as the primary revenue drivers, contributing significantly to the global sales surge.
+
+● Core Demographic: Customers aged 30–49 represent the core demographic, contributing over $10.92M in combined revenue, with the 30–39 group leading at $6.03M.
+
+● Best-selling Products: Mountain Bikes ($6.34M) and Road Bikes ($5.2M) remain the highest revenue-generating categories, anchoring the shop's market position.
+
+The Growth Engine:
+
+● Order Volume Surge: The most significant driver was a +551.18% jump in total orders (from 3,269 to 21,287), confirming a massive expansion in market reach.
+
+● Strategic Growth (+179.77%): This surge in volume directly fueled the 179.77% YoY revenue growth, even as the business transitioned to a more competitive Average Order Value (AOV) of $767.83.
 
 ## Strategic Recommendations
 
