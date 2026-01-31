@@ -50,7 +50,7 @@ The Growth Engine:
 
 Growth Trajectory Analysis:
 
-The continuous revenue timeline illustrates a strategic pivot from a stable market-testing phase (2011–2012) into a high-momentum "Hockey Stick Growth" trajectory starting in late 2012. This surge was fueled by an aggressive market penetration strategy that resulted in an unprecedented 551.18% increase in order volume and a 179.77% YoY revenue growth by the end of 2013. By Q4 2013, the business reached a new scalability milestone with quarterly revenue peaking at over $5M, proving the success of its transition from a high-value/low-volume model to a dominant high-volume global retail leader.
+The continuous revenue timeline illustrates a strategic pivot from a stable market-testing phase (2011–2012) into a high-momentum trajectory starting in late 2012. This surge was fueled by an aggressive market penetration strategy that resulted in an unprecedented 551.18% increase in order volume and a 179.77% YoY revenue growth by the end of 2013. By Q4 2013, the business reached a new scalability milestone with quarterly revenue peaking at over $5M, proving the success of its transition from a high-value/low-volume model to a dominant high-volume global retail leader.
 
 ## Strategic Recommendations
 
