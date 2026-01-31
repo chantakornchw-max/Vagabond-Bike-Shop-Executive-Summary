@@ -3,5 +3,9 @@
 
 ## Project Background
 
+## Data Structure
 
-● chantakorn chaiwong
+## Executive Summary
+
+### Recommendation
+
