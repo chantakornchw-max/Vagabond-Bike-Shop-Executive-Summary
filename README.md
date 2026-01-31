@@ -17,6 +17,7 @@ Key Objectives:
 ● Product Performance: Identify high-value products and monitor their impact on the total revenue stream.
 
 ## Data Structure
+Vagabond's Bike Shop's database consists of three tables: fact_sales, dim_customers, and dim_products, as shown below.
 
 ## Executive Summary
 
