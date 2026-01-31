@@ -27,6 +27,7 @@ Vagabond's Bike Shop's database consists of three tables: fact_sales, dim_custom
 The Vagabond's Bike Shop dashboard reveals a period of hyper-growth and significant strategic shifts between 2011 and 2013. The business successfully transitioned from a high-value/low-volume model to a massive high-volume market expansion.
 
 Key Financial Highlights (2013 Performance):
+
 ● Exceptional Growth: Achieved a 179.77% Year-over-Year (YoY) revenue growth, reaching a total annual revenue of $16.34M.
 
 ● Dominant Markets: The United States ($5.2M) and Australia ($4.3M) emerged as the primary revenue drivers, contributing significantly to the global sales surge.
@@ -34,6 +35,8 @@ Key Financial Highlights (2013 Performance):
 ● Core Demographic: Customers aged 30–49 represent the core demographic, contributing over $10.92M in combined revenue, with the 30–39 group leading at $6.03M.
 
 ● Best-selling Products: Mountain Bikes ($6.34M) and Road Bikes ($5.2M) remain the highest revenue-generating categories, anchoring the shop's market position.
+
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/5d02384b93b6fac0e7c3ee5aabe56f6acf311de5/YoY%20Growth.png)
 
 The Growth Engine:
 
