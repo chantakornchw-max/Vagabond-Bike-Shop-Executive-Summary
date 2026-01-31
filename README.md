@@ -7,6 +7,7 @@ This End-to-End Analytics Project was developed to transform raw transactional d
 Vagabond's Bike Shop is a global retail business specializing in high-performance bicycles, components, and accessories. As the business expanded across multiple continents, the need for a centralized, data-driven system to monitor performance became critical for executive decision-making.
 
 Key Objectives:
+
 ● Revenue Trend Analysis: Track monthly and yearly revenue performance to identify seasonality and growth patterns.
 
 ● Market Insights: Visualize geographic sales distribution to identify top-performing markets.
