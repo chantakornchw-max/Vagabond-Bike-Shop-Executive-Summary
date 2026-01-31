@@ -8,8 +8,11 @@ Vagabond's Bike Shop is a global retail business specializing in high-performanc
 
 Key Objectives:
 ● Revenue Trend Analysis: Track monthly and yearly revenue performance to identify seasonality and growth patterns.
+
 ● Market Insights: Visualize geographic sales distribution to identify top-performing markets.
+
 ● Customer Demographics: Understand the revenue contribution across different age groups to optimize marketing efforts.
+
 ● Product Performance: Identify high-value products and monitor their impact on the total revenue stream.
 
 ## Data Structure
