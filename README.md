@@ -83,6 +83,8 @@ The continuous revenue timeline illustrates a strategic pivot from a stable mark
 
 ● Develop localized marketing campaigns for the United Kingdom ($2.1M) and Germany ($1.8M) to convert them into high-growth hubs similar to the US and Australia.
 
+● Ensure consistent stock levels for Mountain Bikes ($6.34M) and Road Bikes ($5.2M) to avoid lost revenue during peak sales months (June and December).
+
 ● Address the decrease in Average Order Value ($767.83) by introducing bundles. Pair high-ticket Mountain Bikes with high-volume Accessories (Helmets/Tires) to increase the total basket value per transaction.
 
 ● Capitalize on the $1M surge in Clothing and Accessories by offering "New Rider" starter kits, converting one-time accessory buyers into long-term brand loyalists.
@@ -91,4 +93,4 @@ The continuous revenue timeline illustrates a strategic pivot from a stable mark
 
 ● Create entry-level "Commuter Packages" for the 20–29 age group to build brand loyalty early, as they represent a growing segment with future high-spending potential.
 
-● Ensure consistent stock levels for Mountain Bikes ($6.34M) and Road Bikes ($5.2M) to avoid lost revenue during peak sales months (June and December).
+
