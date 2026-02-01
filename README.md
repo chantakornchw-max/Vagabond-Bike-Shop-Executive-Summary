@@ -30,7 +30,7 @@ A custom Date Dimension table was developed using DAX to serve as the structural
 
 ![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/bdffbed35cd0eb659104b0d2304172ac88600020/Date%20Dimension.png)
 
-● Data Architecture
+● Data Architecture:
 The project utilizes a Star Schema architecture to organize data for high-performance querying and efficient executive reporting. A robust one-to-many relationship was established between the central Sales fact table and dimension tables like DateDim, ensuring data integrity and seamless filtering across all interactive visuals.
 
 ![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/bdffbed35cd0eb659104b0d2304172ac88600020/Star%20Schema.png)
