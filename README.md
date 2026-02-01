@@ -53,13 +53,13 @@ The Vagabond's Bike Shop dashboard reveals a period of hyper-growth and signific
 
 Key Financial Highlights (2013 Performance):
 
-● Exceptional Growth: Achieved a 179.77% Year-over-Year (YoY) revenue growth, reaching a total annual revenue of $16.34M.
+● Achieved a 179.77% Year-over-Year (YoY) revenue growth, reaching a total annual revenue of $16.34M.
 
-● Dominant Markets: The United States ($5.2M) and Australia ($4.3M) emerged as the primary revenue drivers, contributing significantly to the global sales surge.
+● The United States ($5.2M) and Australia ($4.3M) emerged as the primary revenue drivers, contributing significantly to the global sales surge.
 
-● Core Demographic: Customers aged 30–49 represent the core demographic, contributing over $10.92M in combined revenue, with the 30–39 group leading at $6.03M.
+● Customers aged 30–49 represent the core demographic, contributing over $10.92M in combined revenue, with the 30–39 group leading at $6.03M.
 
-● Best-selling Products: Mountain Bikes ($6.34M) and Road Bikes ($5.2M) remain the highest revenue-generating categories, anchoring the shop's market position.
+● Mountain Bikes ($6.34M) and Road Bikes ($5.2M) remain the highest revenue-generating categories, anchoring the shop's market position.
 
 ![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/67130efe6faacd1fa52512603df6e1b10ef72ec6/YoY%25.png)
 
@@ -69,7 +69,7 @@ The Growth Engine:
 
 ● The analysis reveals a pivot from a bike-only model in 2011 to a diversified retail strategy in 2013. Revenue from Accessories and Clothing surged to nearly $1M combined, representing a massive expansion in product offerings.
 
-● While total orders jumped by 551.18%, the Average Order Value (AOV) settled at $767.83. This decrease is a direct result of selling a higher volume of lower-priced products (accessories/clothing), which successfully increased customer touchpoints and overall market reach.
+● While total orders jumped by 551.18%, the Average Order Value (AOV) settled at $767.83. This decrease is a direct result of selling a higher volume of low-priced products (accessories/clothing), which successfully increased customer touchpoints and overall market reach.
 
 ![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/fc601043158542a96d787d80dcf0f643cfcfe171/Quarterly%20Revenue%20Performance%20Trends.png)
 
