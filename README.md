@@ -1,4 +1,4 @@
-# Vagabond's Bike Shop Executive Dashboard
+# Vagabond's Bike Shop Executive Summary
 
 ## Project Background
 This End-to-End Analytics Project was developed to transform raw transactional data into a high-impact executive dashboard. By integrating SQL-based data processing with Power BI visualization, the project provides a comprehensive view of the company's health over a three-year period (2011–2013).
