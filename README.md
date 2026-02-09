@@ -49,7 +49,7 @@ AOV = DIVIDE(SUM(Sales[sales_amount]), DISTINCTCOUNT('Sales'[order_number]))
 ## Executive Summary
 The Vagabond's Bike Shop dashboard reveals a period of hyper-growth and significant strategic shifts between 2011 and 2013. The business successfully transitioned from a high-value/low-volume model to a massive high-volume market expansion.
 
-![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/d16ba2716de6a0647b5e470f6643b470cb9f4b73/Executive%20Dashboard.png)
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Summary/blob/e556c84030e83c27c31201e3be201eb65541561b/Dashboard.png)
 
 Key Financial Highlights (2013 Performance):
 
@@ -61,7 +61,7 @@ Key Financial Highlights (2013 Performance):
 
 ● Mountain Bikes ($6.34M) and Road Bikes ($5.2M) remain the highest revenue-generating categories, anchoring the shop's market position.
 
-![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/e9b3ce82442e2b072e5211fd9813d3bfeae1e843/yoy%25.png)
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Summary/blob/e556c84030e83c27c31201e3be201eb65541561b/%25yoy.png)
 
 The Growth Engine:
 
