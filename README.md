@@ -25,15 +25,11 @@ Vagabond's Bike Shop's database consists of three tables: fact_sales, dim_custom
 ● Data Transformation (SQL):
 Data was extracted and refined using SQL to ensure only the most accurate and relevant information reached the visualization stage. Key transformation steps included filtering out incomplete records from 2010 and 2014, as well as performing feature engineering to calculate precise customer age groups. The complete SQL scripts detailing the extraction, cleaning, and filtering logic are available in [SQL_Scripts.sql](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/e5d26c6d16508c3742e085a62ecbd90c3e0f237b/SQL_Scripts.sql)
 
-● Custom [Date Dimension (DAX)](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Summary/blob/8c4f05a942e22b3fa87d40ee3be5ca70796263ae/Date%20Dimension.png):
+● Custom [Date Dimension](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Summary/blob/8c4f05a942e22b3fa87d40ee3be5ca70796263ae/Date%20Dimension.png)(DAX):
 A custom Date Dimension table was developed using DAX to serve as the structural backbone for advanced Time Intelligence and dynamic reporting. This logic enables the dashboard to perform precise temporal calculations, such as YoY Growth % and Previous Year Sales, which are critical for tracking the shop's expansion.
 
-![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/bdffbed35cd0eb659104b0d2304172ac88600020/Date%20Dimension.png)
-
 ● Data Architecture:
-The project utilizes a Star Schema architecture to organize data for high-performance querying and efficient executive reporting. A robust one-to-many relationship was established between the central Sales fact table and dimension tables like DateDim, ensuring data integrity and seamless filtering across all interactive visuals.
-
-![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/bdffbed35cd0eb659104b0d2304172ac88600020/Star%20Schema.png)
+The project utilizes a [Star Schema](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/bdffbed35cd0eb659104b0d2304172ac88600020/Star%20Schema.png) architecture to organize data for high-performance querying and efficient executive reporting. A robust one-to-many relationship was established between the central Sales fact table and dimension tables like DateDim, ensuring data integrity and seamless filtering across all interactive visuals.
 
 ● Key Analytical Measures (DAX):
 The dashboard's intelligence is powered by custom DAX measures designed for high accuracy and robust error handling. By utilizing SUMX for precise row-level revenue calculations and SAMEPERIODLASTYEAR for accurate year-over-year comparisons, the model establishes a solid foundation for tracking the shop's hyper-growth phase. Furthermore, the implementation of the DIVIDE function for critical metrics like YoY Growth % and Average Order Value (AOV) ensures dashboard stability by preventing "Division by Zero" errors, providing clean and reliable insights for executive decision-making.
