@@ -71,7 +71,7 @@ The Growth Engine:
 
 ● While total orders jumped by 551.18%, the Average Order Value (AOV) settled at $767.83. This decrease is a direct result of selling a higher volume of low-priced products (accessories/clothing), which successfully increased customer touchpoints and overall market reach.
 
-![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/fc601043158542a96d787d80dcf0f643cfcfe171/Quarterly%20Revenue%20Performance%20Trends.png)
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Summary/blob/426019126ef5536e84d8cdd79f6e594bc4be4729/Quarterly%20revenue.png)
 
 Growth Trajectory Analysis:
 
